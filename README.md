@@ -4,5 +4,3 @@ This game is learned during javascript tutorials which was designed using Vanill
 
 To run this, you can download `index.html` and `game.js` and open `index.html` in your browser.
 
-
-
