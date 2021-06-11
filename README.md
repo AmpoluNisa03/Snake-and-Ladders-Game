@@ -2,4 +2,4 @@
 
 This game is designed using Vanilla JavaScript and can be played by a single player.
 
-# [:link:](file:///F:/Github%20repos/Snake%20and%20Ladders%20Game/index.html)Snake and Ladders Game
+# [:link:](https://drive.google.com/file/d/1cq2mzD9dizpcevGAo98734vTCQVlrL6_/view?usp=sharing)Snake and Ladders Game
